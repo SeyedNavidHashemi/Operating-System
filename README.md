@@ -2,7 +2,7 @@
 
 A collection of three comprehensive Operating System projects demonstrating process management, inter-process communication (IPC), multithreading, and network programming concepts.
 
-##  Projects
+## Projects
 
 ### 1.  TCP Socket Game (CA1)
 A multiplayer Rock Paper Scissors game server implementing client-server architecture with multi-room support and real-time communication using TCP/UDP sockets.
